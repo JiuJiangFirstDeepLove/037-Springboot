@@ -45,7 +45,7 @@ mysql (9张表)
 ### 前台
 
 ```
-http://localhost:8080/springboot3fy99.sql/front/index.html#/login
+http://localhost:8080/springboot3fy99/front/index.html#/login
 
 账号 学生1
 密码 123456
@@ -54,7 +54,7 @@ http://localhost:8080/springboot3fy99.sql/front/index.html#/login
 ### 后台
 
 ```
-http://localhost:8080/springboot3fy99.sql/admin/dist/index.html#/login
+http://localhost:8080/springboot3fy99/admin/dist/index.html#/login
 
 账号 abo
 密码 abo
